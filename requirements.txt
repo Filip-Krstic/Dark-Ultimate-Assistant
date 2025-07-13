@@ -1,0 +1,10 @@
+vosk
+opencv-python
+pyttsx3
+pyaudio
+wikipedia-api
+numpy
+noisereduce
+sumy
+fuzzywuzzy
+playsound
